@@ -9,7 +9,7 @@
 `Swift` `UIKit` `SnapKit` `Combine` `MVVM+Coordinator` `Firebase` `URLSession` `URLSession` `REST API` `UserDefaults` `Localization` `Git` `GitHub`
 
 **Мой главный проект**
-[**ResumeHub**](https://github.com/coldynee/ResumeHub) — iOS-приложение для публикации резюме.
+[**ResumeHub**](https://github.com/coldynee/ResumeHub) — iOS-приложение для публикации резюме и поиска работы.
 
 **Контакты**
 - Telegram: [@coldynee](https://t.me/coldynee)
