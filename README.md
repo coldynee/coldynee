@@ -6,7 +6,7 @@
 Начинающий iOS-разработчик с полным циклом создания приложения в портфолио. Разрабатываю и поддерживаю проект **ResumeHub** — платформу для публикации резюме и поиска работы. Самостоятельно проектирую архитектуру (MVVM+Coordinator), интегрирую Firebase, реализую аутентификацию и отправку email-кодов через собственный SMTP-клиент.
 
 **Ключевые навыки**
-`Swift` `UIKit` `SnapKit` `Combine` `MVVM+Coordinator` `Firebase` `URLSession` `Git`
+`Swift` `UIKit` `SnapKit` `Combine` `MVVM+Coordinator` `Firebase` `URLSession` `URLSession` `REST API` `UserDefaults` `Localization` `Git` `GitHub`
 
 **Мой главный проект**
 [**ResumeHub**](https://github.com/coldynee/ResumeHub) — iOS-приложение для публикации резюме.
