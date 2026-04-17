@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет, я Никита Морозов
 
-<!--
-**coldynee/coldynee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iOS-разработчик** | **Создатель ResumeHub**
 
-Here are some ideas to get you started:
+**О себе**
+Начинающий iOS-разработчик с полным циклом создания приложения в портфолио. Разрабатываю и поддерживаю проект **ResumeHub** — платформу для публикации резюме и поиска работы. Самостоятельно проектирую архитектуру (MVVM+Coordinator), интегрирую Firebase, реализую аутентификацию и отправку email-кодов через собственный SMTP-клиент.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Ключевые навыки**
+`Swift` `UIKit` `SnapKit` `Combine` `MVVM+Coordinator` `Firebase` `URLSession` `Git`
+
+**Мой главный проект**
+[**ResumeHub**](https://github.com/coldynee/ResumeHub) — iOS-приложение для публикации резюме.
+
+**Контакты**
+- Telegram: [@coldynee](https://t.me/coldynee)
+- Email: coldynee@gmail.com
